@@ -1,3 +1,58 @@
 {
-  "projects": []
+  "projects": [
+    {
+      "id": 1,
+      "title": "Application de Gestion de Tâches",
+      "description": "Une application web permettant de créer, suivre et organiser ses tâches quotidiennes.",
+      "technology": "Vue.js, Node.js, MongoDB",
+      "team": ["Ahmed", "Sarra"],
+      "feedback": [
+        { "msg": "Très bonne interface", "date": "2024-01-15" },
+        { "msg": "Ajouter une fonctionnalité d'export", "date": "2024-01-18" }
+      ]
+    },
+
+    {
+      "id": 2,
+      "title": "Plateforme E-learning",
+      "description": "Un site complet pour suivre des cours en ligne avec suivi de progression.",
+      "technology": "React, Firebase",
+      "team": ["Mariem", "Hatem", "Samir"],
+      "feedback": [
+        { "msg": "Bonne organisation des cours", "date": "2024-02-02" }
+      ]
+    },
+
+    {
+      "id": 3,
+      "title": "Système de réservation de salles",
+      "description": "Application permettant de réserver des salles pour réunions et événements.",
+      "technology": "Laravel, MySQL",
+      "team": ["Yassine"],
+      "feedback": [
+        { "msg": "Système simple et efficace", "date": "2024-02-10" },
+        { "msg": "Ajouter des notifications", "date": "2024-02-12" }
+      ]
+    },
+
+    {
+      "id": 4,
+      "title": "Application météo",
+      "description": "Une application qui affiche la météo en temps réel selon la localisation.",
+      "technology": "Vue.js, API OpenWeather",
+      "team": ["Nour", "Seif"],
+      "feedback": []
+    },
+
+    {
+      "id": 5,
+      "title": "Portfolio Interactif",
+      "description": "Portfolio dynamique pour développeur avec animations et projets.",
+      "technology": "Vue.js, GSAP",
+      "team": ["Ahmed"],
+      "feedback": [
+        { "msg": "Super design", "date": "2024-03-05" }
+      ]
+    }
+  ]
 }
